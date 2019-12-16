@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7787edaa-199d-421c-a0cc-9ac63f7f2140" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="82024e16-cf9f-4493-8f77-ea6d9a59c4d7" />
+  <component name="ProjectId" id="1V2nq7hYwBNOBMHy49E6p5iLMAh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7787edaa-199d-421c-a0cc-9ac63f7f2140" name="Default Changelist" comment="" />
+      <created>1576460244964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576460244964</updated>
+      <workItem from="1576460251426" duration="14712000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1782" y="197" key="#Deployment" timestamp="1576461867222">
+      <screen x="1280" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1782" y="197" key="#Deployment/1280.0.1920.1040/0.0.1280.984@1280.0.1920.1040" timestamp="1576461867222" />
+    <state x="1920" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576460885011">
+      <screen x="1280" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="285" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1280.0.1920.1040/0.0.1280.984@1280.0.1920.1040" timestamp="1576460885011" />
+    <state x="1698" y="167" key="SettingsEditor" timestamp="1576460602868">
+      <screen x="1280" y="0" width="1920" height="1014" />
+    </state>
+    <state x="1698" y="167" key="SettingsEditor/1280.0.1920.1014/0.0.1280.958@1280.0.1920.1014" timestamp="1576460602868" />
+    <state x="1698" y="171" key="SettingsEditor/1280.0.1920.1040/0.0.1280.984@1280.0.1920.1040" timestamp="1576460418730" />
+    <state x="325" y="314" key="com.intellij.ide.util.TipDialog" timestamp="1576460256972">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="325" y="314" key="com.intellij.ide.util.TipDialog/1280.0.1920.1040/0.0.1280.984@0.0.1280.984" timestamp="1576460256972" />
+    <state x="2098" y="269" width="406" height="541" key="ftp.server.browser" timestamp="1576461865299">
+      <screen x="1280" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2098" y="269" width="406" height="541" key="ftp.server.browser/1280.0.1920.1040/0.0.1280.984@1280.0.1920.1040" timestamp="1576461865299" />
+  </component>
+</project>
